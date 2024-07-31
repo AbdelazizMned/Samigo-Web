@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-login-page": "^1.0.4",
+    "vite": "^5.3.4"
+  }
+}
